@@ -1,2 +1,3 @@
-# code-style
-code style
+# Rails code style from our experiment
+
+*... Code styles here ...*
